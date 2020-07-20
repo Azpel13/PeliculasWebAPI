@@ -4,7 +4,7 @@ ASP.NET facilita la creación de servicios que llegan a una amplia gama de clien
 
 ## Ejemplo del resultado final
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--KK3vhzfV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/up8i0qz3ghvplbkxl2qb.png)
+![](https://i.ibb.co/PMkGsh3/EXE.png)
 
 ## Tutoriales complementarios:
 
